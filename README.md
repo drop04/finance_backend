@@ -140,4 +140,4 @@ Returns: { "token": "...", "user": { ... } }
 { "error": "description" }
 ```
 
-HTTP codes used: `200`, `201`, `400`, `401`, `403`, `404`, `409`, `500`# finance_backend
+HTTP codes used: `200`, `201`, `400`, `401`, `403`, `404`, `409`, `500`
